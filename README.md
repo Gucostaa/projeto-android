@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte de uma atividade educacional com o obje
 ```
 Senac-Web-Standards/
 ├── index.html         # Página principal 
-├── style/             # Arquivos CSS
+├── styles/             # Arquivos CSS
 ├── assets/            # (opcional) Imagens, ícones, etc.
 ├── README.md          # Documentação do projeto
 ├── .gitattributes
