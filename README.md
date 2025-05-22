@@ -34,6 +34,11 @@ Senac-Web-Standards/
 | Nome    | Função |
 |---------|--------|
 | **[Gustavo Costa](https://github.com/Gucostaa)** | Desenvolvedor web |
+
+## 👨‍🏫 Referências
+
+| Nome    | Função |
+|---------|--------|
 | **[Curso em Vídeo](https://github.com/cursoemvideo)** | Base para conteúdo e estrutura |
 
 ## ⚙️ Como Executar
